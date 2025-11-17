@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Pandas](https://img.shields.io/badge/Data-Pandas-yellow)
+![Matplotlib](https://img.shields.io/badge/Charts-Matplotlib-orange)
+![Seaborn](https://img.shields.io/badge/Graphs-Seaborn-lightblue)
+![Health App](https://img.shields.io/badge/Health-DigitalHealth-success)
+
 # Diabetes Self-Management Tracking System
 
 This project implements a Python-based chronic disease self-management app for diabetes.  
